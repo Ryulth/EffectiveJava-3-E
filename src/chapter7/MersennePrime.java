@@ -1,4 +1,4 @@
-package chapter7;
+/*package chapter7;
 
 import java.math.BigInteger;
 import java.util.stream.Stream;
@@ -18,4 +18,4 @@ public class MersennePrime {
                 .limit(10)
                 .forEach(mp -> System.out.println(mp.bitLength() + ": " + mp));
     }
-}
+}*/

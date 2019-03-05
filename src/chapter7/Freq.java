@@ -1,4 +1,4 @@
-package chapter7;
+/*package chapter7;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -39,4 +39,4 @@ public class Freq {
 
         System.out.println(topTen);
     }
-}
+}*/
